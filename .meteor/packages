@@ -22,3 +22,6 @@ insecure                # Allow all DB writes from clients (for prototyping)
 # My Packages
 iron:router
 twbs:bootstrap
+accounts-ui
+accounts-password
+selaias:accounts-entry
