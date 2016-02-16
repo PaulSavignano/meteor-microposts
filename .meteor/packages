@@ -25,3 +25,5 @@ twbs:bootstrap
 accounts-ui
 accounts-password
 selaias:accounts-entry
+cfs:standard-packages
+cfs:gridfs
